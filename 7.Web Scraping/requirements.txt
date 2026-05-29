@@ -1,4 +1,0 @@
-ipykernel
-yfinance
-beautifulsoup4 
-pandas
